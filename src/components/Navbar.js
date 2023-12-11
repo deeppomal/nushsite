@@ -8,8 +8,8 @@ function Navbar() {
 
     return ( 
         <div className="h-24 w-full z-10 border-b-2 border-b-black flex items-center lg:px-7 justify-between fixed top-0 bg-white">
-            <div className="h-16 w-16 bg-red-500 cursor-pointer ml-3">
-                <Link className="mx-4 cursor-pointer" to={'/'}></Link>
+            <div className="h-20 w-20 cursor-pointer ml-3">
+                <img src='logo.png' className='h-full w-full ' />
             </div>
             <div className="lg:flex items-center hidden">
                 <Link className="mx-4 cursor-pointer" to={'/'}><p className="text-lg font-semibold hover:border-b-2 border-gray-950">Menu</p></Link>

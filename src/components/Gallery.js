@@ -6,32 +6,57 @@ const imagesArray = [
     {
       alt: "Image1's alt text",
       caption: "Image1's description",
-      src: "one.jpg",
+      src: "g7.jpg",
     },
     {
       alt: "Image2's alt text",
       caption: "Image2's description",
-      src: "two.jpg",
+      src: "g2.jpg",
     },
     {
       alt: "Image3's alt text",
       caption: "Image3's description",
-      src: "one.jpg",
+      src: "g3.jpg",
     },
     {
         alt: "Image1's alt text",
         caption: "Image1's description",
-        src: "one.jpg",
+        src: "g4.jpg",
     },
     {
         alt: "Image2's alt text",
         caption: "Image2's description",
-        src: "two.jpg",
+        src: "g5.jpg",
     },
     {
         alt: "Image3's alt text",
         caption: "Image3's description",
-        src: "one.jpg",
+        src: "g6.jpg",
+    },
+    {
+        alt: "Image1's alt text",
+        caption: "Image1's description",
+        src: "g11.jpg",
+    },
+    {
+        alt: "Image2's alt text",
+        caption: "Image2's description",
+        src: "g8.jpg",
+    },
+    {
+        alt: "Image3's alt text",
+        caption: "Image3's description",
+        src: "g9.jpg",
+    },
+    {
+        alt: "Image3's alt text",
+        caption: "Image3's description",
+        src: "g10.jpg",
+    },
+    {
+        alt: "Image3's alt text",
+        caption: "Image3's description",
+        src: "g1.jpg",
     },
       
 ];
